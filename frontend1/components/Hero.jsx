@@ -26,7 +26,7 @@ export default function Hero() {
             ref={observe}
             className="w-full h-screen flex justify-center items-center overflow-hidden relative">
             <Image
-                src='/assets/images/carousel3.jpg'
+                src='/assets/images/Rhine_Lab_HQ.jpg'
                 alt="Hero Image"
                 className="object-cover"
                 fill
@@ -36,13 +36,13 @@ export default function Hero() {
             
             <div className="z-10 mb-20 flex flex-col justify-left items-left py-16 px-12 backdrop-blur-md bg-Ireng/30">
                 <div className=" text-left text-3xl md:text-5xl text-white drop-shadow-lg">
-                    Strenghtening <br />
-                    Value <br/> 
-                    Through ESG
+                    Robotics <br />
+                    and Biology <br/> 
+                    Research
                 </div>
                 <hr class="h-2 bg-white border-0  md:my-10"></hr>
                 <p className=" text-left font-satoshi text-sm text-white opacity-90">
-                    Survey of Global Property Professionals
+                    100 % Ethical trust me
                 </p>
 
                 <Link href="/" className="mt-16 font-satoshi font-bold text-left text-basic text-white opacity-90">

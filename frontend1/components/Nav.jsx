@@ -11,7 +11,12 @@ const Nav = () => {
         <div className="max-w-full mx-auto px-16">
             <div className="flex items-center justify-between h-20">
                 <Link href="/" className="flex-row logo_text text-white">
-                    CBRE
+                    <Image 
+                        src="/assets/icons/Rhine_Lab.png"
+                        alt="Frontend Site"
+                        width={100}
+                        height={100}         
+                        />
                 </Link>
 
                 <div className="flex items-center space-x-8 text-white">

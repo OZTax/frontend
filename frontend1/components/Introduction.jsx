@@ -4,10 +4,9 @@ import Link from 'next/link'
 const Introduction = () => {
   return (
     <div className="head_text text-left md:mt-32 md:pr-80 md:ml-10">
-        We are the global leader in commercial real estate services and investments.    
-        <span className="head_text_grey"> With services, insights and data that span every dimension of the industry,
-        we create solutions for clients of every size,
-        in every sector and across every geography.<br/>
+        We are a Columbian research institute and scientific consortium that is active in the fields of Originium,    
+        <span className="head_text_grey"> biology and robotics with both a bright background involving ethical, 
+        humane experiments and a grand ambition to become Terra's pioneer in space expedition.<br/>
         </span>
         <br/><br/>
         <Link href="/" className="head_text_grey underline">

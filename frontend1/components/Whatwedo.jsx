@@ -8,9 +8,10 @@ const Whatwedo = () => {
         What We Do
         </div>
         <div className="container md:mt-32 md:pl-32 md:mr-20 grid grid-cols-1 divide-y">
+            <section/>
             <section className='columns-1 flex flex-row md:pt-8 md:pb-24 '>
                 <div className='-rotate-90 font-satoshi sm:text-sm'>
-                    Insights & Research
+                    Insights
                 </div>
                 <div className='whatwedo_text'>
                     Deliver market knowledge and global insights
@@ -21,12 +22,12 @@ const Whatwedo = () => {
                     that is unparalleled in the industry.<br/>
                     <br/>
                     <Link href="/" className='font-bold'>
-                        <span className='line-through text-hijau-ketupat'>------</span>  Explore Insights & Research
+                        <span className='line-through text-hijau-ketupat'>------</span>  Explore Insights
                     </Link>
                 </div>       
             </section>
 
-            <section className='columns-1 flex flex-row md:pt-8 md:pb-24'>
+            <section className='columns-2 flex flex-row md:pt-8 md:pb-24'>
                 <div className='-rotate-90 font-satoshi sm:text-sm'>
                     Services
                 </div>
@@ -35,7 +36,7 @@ const Whatwedo = () => {
                 </div>
                 <div className='font-satoshi sm:text-sm'>
                     Let us help you:<br/>
-                    - Invest in real estate
+                    - Invest in researches
                     - Plan, lease & occupy
                     - Design & build
                     - Manage properties & portfolios
@@ -47,7 +48,7 @@ const Whatwedo = () => {
                 </div>       
             </section>
 
-            <section className='columns-1 flex flex-row md:pt-8 md:pb-24'>
+            <section className='columns-3 flex flex-row md:pt-8 md:pb-24'>
                 <div className='-rotate-90 font-satoshi sm:text-sm'>
                     Careers
                 </div>
@@ -55,8 +56,8 @@ const Whatwedo = () => {
                     Join Us to realize your visions
                 </div>
                 <div className='font-satoshi sm:text-sm'>
-                    We don't just realize the potential in real estate. 
-                    We help you realize your potential.<br/>
+                    She needs more volunteers.She needs more volunteers.
+                    She needs more volunteers.<br/>
                     <br/>
                     <Link href="/" className='font-bold'>
                         <span className='line-through text-hijau-ketupat'>------</span>  Explore Careers
