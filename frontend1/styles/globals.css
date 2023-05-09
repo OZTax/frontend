@@ -76,7 +76,7 @@
 /* Tailwind Styles */
 
 .app {
-  @apply relative z-10 flex justify-center items-center flex-col max-w-7xl mx-auto sm:px-16 px-6;
+  @apply relative z-10 flex flex-col;
 }
 
 .black_btn {
@@ -88,11 +88,11 @@
 }
 
 .head_text {
-  @apply mt-5 text-5xl font-medium leading-[1.15] text-black sm:text-4xl;
+  @apply mt-5 text-5xl font-medium leading-[1.15] text-black sm:text-3xl max-w-full mx-auto sm:px-16 px-16;
 }
 
 .head_text_grey {
-  @apply mt-5 text-5xl font-medium leading-[1.15] text-gray-500 sm:text-4xl;
+  @apply mt-5 text-5xl font-medium leading-[1.15] text-gray-500 sm:text-3xl;
 }
 
 .orange_gradient {
@@ -143,7 +143,11 @@
 
 /* Nav Component */
 .logo_text {
-  @apply max-sm:hidden font-satoshi font-semibold text-lg text-black tracking-wide;
+  @apply  sm:text-2xl font-satoshi font-extrabold text-lg tracking-wide;
+}
+
+.nav_text {
+  @apply  sm:text-xs max-sm:hidden font-satoshi font-semibold text-lg tracking-wide;
 }
 
 .dropdown {
@@ -152,6 +156,10 @@
 
 .dropdown_link {
   @apply text-sm font-libre text-gray-700 hover:text-gray-500 font-medium;
+}
+
+.solid {
+  @apply w-full flex border-gray-200 bg-gray-50 dark:bg-gray-800 dark:border-gray-700;
 }
 
 /* PromptCard Component */

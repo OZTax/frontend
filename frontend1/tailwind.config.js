@@ -13,6 +13,7 @@ module.exports = {
       },
       colors: {
         'primary-orange': '#FF5722',
+        'Ireng': '#012a2d',
       }
     },
   },
