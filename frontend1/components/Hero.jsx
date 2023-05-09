@@ -39,6 +39,7 @@ export default function Hero() {
                     Through ESG
                 </div>
 
+
                 <p class="mt-24 text-left text-sm text-white opacity-90">
                     Survey of Global Property Professionals
                 </p>
