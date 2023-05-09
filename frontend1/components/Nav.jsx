@@ -43,46 +43,6 @@ const Nav = () => {
             </div>
         </div>
     </nav>  
-
-    //     <Link href="/" className="nav_text">
-    //         Services 
-    //     </Link>
-        
-    //     <Link href="/" className="nav_text">
-    //         Insights & Research
-    //     </Link>
-
-    //     <Link href="/" className="nav_text">
-    //         Properties
-    //     </Link>
-
-    //     <Link href="/" className="nav_text">
-    //         Offices
-    //     </Link>
-
-    //     <Link href="/" className="nav_text">
-    //         Careers
-    //     </Link>
-
-    //     <Link href="/" className="nav_text">
-    //         About Us
-    //     </Link>
-
-        
-
-
-
-    //     <Link href="/">
-    //         <Image 
-    //         src="/assets/icons/search.svg"
-    //         alt="Frontend Site"
-    //         width={30}
-    //         height={30}
-    //         />
-    //     </Link>
-
-
-    // </nav>
   )
 }
 
