@@ -46,7 +46,7 @@ export default function Hero() {
                 </p>
 
                 <Link href="/" className="mt-16 font-satoshi font-bold text-left text-basic text-white opacity-90">
-                    Read The Report
+                    <span className='line-through text-hijau-ketupat'>------</span>   Read The Report
                 </Link>
                 
                 {/* <Button href="/">Get Started</Button> */}
