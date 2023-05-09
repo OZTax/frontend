@@ -88,11 +88,11 @@
 }
 
 .head_text {
-  @apply mt-5 text-5xl font-medium leading-[1.15] text-black sm:text-3xl max-w-full mx-auto sm:px-16 px-16;
+  @apply mt-5 text-5xl font-medium leading-[1.15] text-black sm:text-4xl max-w-full mx-auto sm:px-16 px-16;
 }
 
 .head_text_grey {
-  @apply mt-5 text-5xl font-medium leading-[1.15] text-gray-500 sm:text-3xl;
+  @apply mt-5 text-5xl font-medium leading-[1.15] text-gray-500 sm:text-4xl;
 }
 
 .orange_gradient {
