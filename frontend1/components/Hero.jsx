@@ -24,29 +24,31 @@ export default function Hero() {
     return (
         <div
             ref={observe}
-            class="w-full h-screen flex justify-center items-center overflow-hidden relative">
+            className="w-full h-screen flex justify-center items-center overflow-hidden relative">
             <Image
                 src='/assets/images/carousel3.jpg'
                 alt="Hero Image"
                 className="object-cover"
                 fill
             />
-
-            <div class="z-10 mb-20 flex flex-col justify-left items-left py-16 px-12 backdrop-blur-md bg-Ireng/30">
-                <div class=" text-left text-3xl md:text-5xl text-white drop-shadow-lg">
+            
+            
+            
+            <div className="z-10 mb-20 flex flex-col justify-left items-left py-16 px-12 backdrop-blur-md bg-Ireng/30">
+                <div className=" text-left text-3xl md:text-5xl text-white drop-shadow-lg">
                     Strenghtening <br />
                     Value <br/> 
                     Through ESG
                 </div>
-
-
-                <p class="mt-24 text-left text-sm text-white opacity-90">
+                <hr class="h-2 bg-white border-0  md:my-10"></hr>
+                <p className=" text-left font-satoshi text-sm text-white opacity-90">
                     Survey of Global Property Professionals
                 </p>
 
-                <Link href="/" className="mt-16 text-left text-basic text-white opacity-90">
+                <Link href="/" className="mt-16 font-satoshi font-bold text-left text-basic text-white opacity-90">
                     Read The Report
                 </Link>
+                
                 {/* <Button href="/">Get Started</Button> */}
             </div>
         </div>

@@ -7,7 +7,7 @@ import { signIn, signOut, useSession, getProviders } from 'next-auth/react';
 
 const Nav = () => {
   return (
-    <nav className="sticky top-0 z-10 bg-Ireng backdrop-filter backdrop-blur-lg">
+    <nav className="sticky top-0 z-20 bg-Ireng backdrop-filter backdrop-blur-lg">
         <div className="max-w-full mx-auto px-16">
             <div className="flex items-center justify-between h-20">
                 <Link href="/" className="flex-row logo_text text-white">
