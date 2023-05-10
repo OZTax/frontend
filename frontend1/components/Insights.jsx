@@ -20,14 +20,14 @@ const Insights = () => {
                 " Sir you have ligma "
               </div>
               <div className='flex md:pt-20 md:pl-16 justify-end'>
-              <Link href="https://arknights.fandom.com/wiki/Saria/File">
-                <Image src="/assets/images/muelsyse2.png"
-                  alt="Muelsyse"
-                  width={300}
-                  height={325}
-                  className='hover-img'
-                />
-              </Link>
+                <Link href="https://arknights.fandom.com/wiki/Saria/File">
+                  <Image src="/assets/images/muelsyse2.png"
+                    alt="Muelsyse"
+                    width={300}
+                    height={325}
+                    className='hover-img'
+                  />
+                </Link>
               
               </div>
            </section>

@@ -4,6 +4,7 @@ import Commitment from '@components/Commitment';
 import Introduction from '@components/Introduction';
 import Whatwedo from '@components/Whatwedo';
 import Footer from '@components/Footer';
+import Coworkers from '@components/Coworkers';
 
 
 const Home = () => {
@@ -12,7 +13,8 @@ const Home = () => {
         <Hero />
         <Introduction />
         <Whatwedo />
-        <Insights />
+
+        <Coworkers />
         <Commitment />
         <Footer />
     </section>
