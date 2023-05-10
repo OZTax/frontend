@@ -40,7 +40,7 @@ const Coworkers = () => {
                     Saria
                 </div>
                 <div className='font-satoshi text-justify-left sm:text-sm'>
-                    " Retirement where "
+                    " Can we not "
                 </div>
                 <div className='flex md:pt-20 md:pl-16 justify-end'>
                     <Link href="https://arknights.fandom.com/wiki/Saria/File">
@@ -62,7 +62,7 @@ const Coworkers = () => {
                     Dorothy
                 </div>
                 <div className='font-satoshi text-justify-left sm:text-sm'>
-                    " Sir you have ligma "
+                    " Take a pict- "
                 </div>
                 <div className='flex md:pt-20 md:pl-16 justify-end'>
                     <Link href="https://arknights.fandom.com/wiki/Dorothy/File">
