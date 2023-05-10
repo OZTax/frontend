@@ -40,7 +40,7 @@ export default function Hero() {
                     and Biology <br/> 
                     Research
                 </div>
-                <hr class="h-2 bg-white border-0  md:my-10"></hr>
+                <hr className="h-2 bg-white border-0  md:my-10"></hr>
                 <p className=" text-left font-satoshi text-sm text-white opacity-90">
                     100 % Ethical trust me
                 </p>

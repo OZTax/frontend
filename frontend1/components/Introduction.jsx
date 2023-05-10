@@ -9,7 +9,7 @@ const Introduction = () => {
         humane experiments and a grand ambition to become Terra's pioneer in space expedition.<br/>
         </span>
         <br/><br/>
-        <Link href="/" className="head_text_grey underline">
+        <Link href="https://arknights.fandom.com/wiki/Rhine_Lab" className="head_text_grey underline">
         Learn More
         </Link>
     </div>

@@ -7,7 +7,7 @@ const Whatwedo = () => {
         <div className="whatwedo_text text-left md:mt-32 md:ml-10">
         What We Do
         </div>
-        <div className="container md:mt-32 md:pl-32 md:mr-20 grid grid-cols-1 divide-y">
+        <div className="container md:mt-32 md:pl-32 md:mr-20 grid grid-cols-1 divide-y-2">
             <section/>
             <section className='columns-1 flex flex-row md:pt-8 md:pb-24 '>
                 <div className='-rotate-90 font-satoshi sm:text-sm'>
@@ -53,7 +53,7 @@ const Whatwedo = () => {
                     Careers
                 </div>
                 <div className='whatwedo_text'>
-                    Join Us to realize your visions
+                    Join Us to realize your visions 
                 </div>
                 <div className='font-satoshi sm:text-sm'>
                     She needs more volunteers.She needs more volunteers.
