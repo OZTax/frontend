@@ -4,10 +4,10 @@ import Link from 'next/link'
 const Whatwedo = () => {
   return (
     <section className="flex flex-row">
-        <div className="whatwedo_text text-left md:mt-32 md:ml-10">
+        <div className="whatwedo_text text-left md:mt-32">
         What We Do
         </div>
-        <div className="container md:mt-32 md:pl-32 md:mr-20 grid grid-cols-1 divide-y-2">
+        <div className="container md:mt-32 md:pl-32 grid grid-cols-1 divide-y-2">
             <section/>
             <section className='columns-1 flex flex-row md:pt-8 md:pb-24 '>
                 <div className='-rotate-90 font-satoshi sm:text-sm'>

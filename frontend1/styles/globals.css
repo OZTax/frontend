@@ -111,6 +111,13 @@
   @apply mt-5 text-5xl font-medium leading-[1.15] text-gray-600 sm:text-3xl max-w-full;
 }
 
+.footer_text {
+  @apply mt-5 text-5xl font-satoshi font-semibold leading-[1.15] text-Ireng sm:text-lg max-w-full;
+}
+
+.footer_child_text {
+  @apply mt-5 text-5xl font-satoshi font-semibold leading-[1.15] text-Ireng sm:text-sm max-w-full;
+}
 
 .orange_gradient {
   @apply bg-gradient-to-r from-amber-500 via-orange-600 to-yellow-500 bg-clip-text text-transparent;

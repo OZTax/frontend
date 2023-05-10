@@ -3,6 +3,7 @@ import Insights from '@components/Insights';
 import Commitment from '@components/Commitment';
 import Introduction from '@components/Introduction';
 import Whatwedo from '@components/Whatwedo';
+import Footer from '@components/Footer';
 
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
         <Whatwedo />
         <Insights />
         <Commitment />
+        <Footer />
     </section>
   )
 }
